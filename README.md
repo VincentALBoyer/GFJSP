@@ -1,5 +1,6 @@
 # GFJSP
-Data set of GFJSP used in the paper "The Generalized Flexible Job Shop Scheduling Problem" submitted for revision to the International Journal of Production Research.
+Data set of GFJSP used in the paper "The Generalized Flexible Job Shop Scheduling Problem" by by 
+Vincent Boyer, Jobish Vallikavungal Devassia, Xavier Cantú-Rodríguez, M. Angélica Salazar-Aguilar submitted for revision to the International Journal of Production Research.
 
 Note: The full set of instances will be available after the reviewing process.
 
