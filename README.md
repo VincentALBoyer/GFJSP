@@ -36,9 +36,7 @@ d(nop-1) a(nop-1) b(nop-1) nm(nop-1) [m_id p(m_id,nop-1) w(m_id,nop-1)]xnm(nop-1
 
 #Machines Data
 C(0) t(0)  nsu(0) [op_i op_j SetUp(0,op_i, op_j)]xnsu(0)
-
 ...
-
 C(nmach-1) t(nmach-1)  nsu(nmach-1) [op_i op_j SetUp(nmach-1,op_i, op_j)]xnsu(nmach-1nmach-1)
 
 
